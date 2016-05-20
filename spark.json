@@ -1,0 +1,7 @@
+{
+  "name": "SparkFun_APDS-9960",
+  "author": "SparkFun_APDS9960",
+  "license": "GNU",
+  "version": "0.0.1",
+  "description": "Spark Library to work with SparkFun_APDS-9960"
+}
